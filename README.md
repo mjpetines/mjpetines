@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://giffiles.alphacoders.com/152/15269.gif" width="300"/>
+  <img src="https://giffiles.alphacoders.com/152/15269.gif" width="500"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Marc Jhasper!</h1>
@@ -43,5 +43,5 @@
 <p></p>
 
 <div align="center">
-  <img src="https://giffiles.alphacoders.com/139/13992.gif" width="300"/>
+  <img src="https://giffiles.alphacoders.com/139/13992.gif" width="500"/>
 </div>
