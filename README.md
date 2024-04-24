@@ -5,7 +5,9 @@
 <h1 align="center">Hi 👋, I'm Marc Jhasper!</h1>
 <h3 align="center">and I'm a random guy who likes coding... I guess</h3>
 
-🌱 I’m currently learning **all languages to have under my belt**
+<h1 align="center"></h1>
+
+-🌱 I’m currently learning **all languages to have under my belt**
 
 - 🤝 I’m looking for help with **finding where to even start lol**
 
