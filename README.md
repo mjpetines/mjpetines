@@ -7,15 +7,12 @@
 
 <h1 align="center"></h1>
 
--🌱 I’m currently learning **all languages to have under my belt**
+>🌱 I’m currently learning **all languages to have under my belt**
+> 🤝 I’m looking for help with **finding where to even start lol**
+> 💬 Ask me about **journalism, coding, and gacha games**
+> ⚡ Fun fact **I like long haired girls.**
 
-- 🤝 I’m looking for help with **finding where to even start lol**
-
-- 💬 Ask me about **journalism, coding, and gacha games**
-
-- 📫 How to reach me **jhasperpetines@gmail.com**
-
-- ⚡ Fun fact **I like long haired girls.**
+> 📫 How to reach me **jhasperpetines@gmail.com**
 
 <h1 align="center"></h1>
 
@@ -43,7 +40,7 @@
 
 <div align="center">
   <div style="width: 20px;">
-    <h1>“Maybe there's only a dark road up ahead. But you still have to believe and keep going. Believe that the stars will light your path, even a little bit."</h1>
+    <h3>“Maybe there's only a dark road up ahead. But you still have to believe and keep going. Believe that the stars will light your path, even a little bit."</h3>
     <h3>- Kaori Miyazono, Your Lie In April</h3>
   </div>
 </div>
@@ -55,5 +52,10 @@
 <div align="center">
   <img src="https://giffiles.alphacoders.com/139/13992.gif" width="500"/>
 </div>
+
+<h1 align="center"></h1>
+ <h3>readme taken from: https://rahuldkjain.github.io/gh-profile-readme-generator/ </h3>
+ <h3>inspired by: Kaeino</h3>
+<h1 align="center"></h1>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=mjpetines&label=Profile%20views&color=0e75b6&style=flat" alt="mjpetines" /> </p>
