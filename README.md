@@ -11,15 +11,15 @@
 -🌱 I’m currently learning **all languages to have under my belt**<br><br>
 -🤝 I’m looking for help with **finding where to even start lol**<br><br>
 -💬 Ask me about **journalism, coding, and gacha games**<br><br>
--⚡ Fun fact **I like long haired girls.**
-
-> 📫 How to reach me **jhasperpetines@gmail.com**
+-⚡ Fun fact **I like long haired girls.**<br><br>
+<br><br>
+-📫 How to reach me **jhasperpetines@gmail.com**<br><br>
 </p>
 
 <h1 align="center"></h1>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 <a href="https://fb.com/jhasper.xxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jhasper.xxx" height="30" width="40" /></a>
 </p>
 
