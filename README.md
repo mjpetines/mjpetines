@@ -7,12 +7,14 @@
 
 <h1 align="center"></h1>
 
--🌱 I’m currently learning **all languages to have under my belt**
--🤝 I’m looking for help with **finding where to even start lol**
--💬 Ask me about **journalism, coding, and gacha games**
+<p align="left">
+-🌱 I’m currently learning **all languages to have under my belt**<br><br>
+-🤝 I’m looking for help with **finding where to even start lol**<br><br>
+-💬 Ask me about **journalism, coding, and gacha games**<br><br>
 -⚡ Fun fact **I like long haired girls.**
 
 > 📫 How to reach me **jhasperpetines@gmail.com**
+</p>
 
 <h1 align="center"></h1>
 
