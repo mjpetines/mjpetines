@@ -5,9 +5,7 @@
 <h1 align="center">Hi 👋, I'm Marc Jhasper!</h1>
 <h3 align="center">and I'm a random guy who likes coding... I guess</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mjpetines&label=Profile%20views&color=0e75b6&style=flat" alt="mjpetines" /> </p>
-
-- 🌱 I’m currently learning **all languages to have under my belt**
+🌱 I’m currently learning **all languages to have under my belt**
 
 - 🤝 I’m looking for help with **finding where to even start lol**
 
@@ -39,6 +37,9 @@
     <h3>- Kaori Miyazono, Your Lie In April</h3>
   </div>
 </div>
+
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=mjpetines&label=Profile%20views&color=0e75b6&style=flat" alt="mjpetines" /> </p>
 
 <p></p>
 
