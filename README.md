@@ -1,32 +1,24 @@
+<div align="center">
+  <img src="https://giffiles.alphacoders.com/152/15269.gif" width="300"/>
+</div>
+
 <h1 align="center">Hi 👋, I'm Marc Jhasper!</h1>
-<h3 align="center">A random guy who likes coding</h3>
+<h3 align="center">and I'm a random guy who likes coding... I guess</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mjpetines&label=Profile%20views&color=0e75b6&style=flat" alt="mjpetines" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mjpetines" alt="mjpetines" /></a> </p>
-
-- 🔭 I’m currently working on **nothing**
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mjpetines&label=Profile%20views&color=0e75b6&style=flat" alt="mjpetines" /> </p>
 
 - 🌱 I’m currently learning **all languages to have under my belt**
 
-- 👯 I’m looking to collaborate on **nothing**
-
-- 🤝 I’m looking for help with **nothing**
-
-- 👨‍💻 All of my projects are available at [(still wip)]((still wip))
-
-- 📝 I regularly write articles on [(still wip)]((still wip))
+- 🤝 I’m looking for help with **finding where to even start lol**
 
 - 💬 Ask me about **journalism, coding, and gacha games**
 
 - 📫 How to reach me **jhasperpetines@gmail.com**
 
-- 📄 Know about my experiences [(still wip)]((still wip))
-
 - ⚡ Fun fact **I like long haired girls.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://fb.com/jhasper.xxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jhasper.xxx" height="30" width="40" /></a>
 </p>
 
@@ -38,3 +30,18 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mjpetines&show_icons=true&locale=en" alt="mjpetines" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mjpetines&" alt="mjpetines" /></p>
+
+<p></p>
+
+<div align="center">
+  <div style="width: 20px;">
+    <h1>“Maybe there's only a dark road up ahead. But you still have to believe and keep going. Believe that the stars will light your path, even a little bit."</h1>
+    <h3>- Kaori Miyazono, Your Lie In April</h3>
+  </div>
+</div>
+
+<p></p>
+
+<div align="center">
+  <img src="https://giffiles.alphacoders.com/139/13992.gif" width="300"/>
+</div>
