@@ -12,7 +12,7 @@
 -💬 Ask me about **journalism, coding, and gacha games**<br><br>
 -⚡ Fun fact **I like long haired girls.**<br><br>
 <br><br>
--📫 How to reach me **jhasperpetines@gmail.com**<br><br>
+-📫 How to reach me >>>**jhasperpetines@gmail.com**<br><br>
 
 <h1 align="center"></h1>
 
