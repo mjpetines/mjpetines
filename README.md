@@ -53,9 +53,9 @@
   <img src="https://giffiles.alphacoders.com/139/13992.gif" width="500"/>
 </div>
 
-<h1 align="center"></h1>
+<h3 align="center"></h1>
  <h3>readme taken from: https://rahuldkjain.github.io/gh-profile-readme-generator/ </h3>
  <h3>inspired by: Kaeino</h3>
-<h1 align="center"></h1>
+<h3 align="center"></h1>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=mjpetines&label=Profile%20views&color=0e75b6&style=flat" alt="mjpetines" /> </p>
