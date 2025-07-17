@@ -4,8 +4,8 @@
 </p>
 
 <!-- Greeting -->
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Aron-Arboleda/Aron-Arboleda/main/animatedGIF.gif" width="40" style="vertical-align:middle;"/> I'm Marc Jhasper!</h1>
-<h3 align="center">Random guy who likes coding... I guess</h3>
+<h1 align="center">Hi! I'm Marc Jhasper!</h1>
+<h3 align="center">I'm a random guy who likes coding... I guess</h3>
 
 ---
 
@@ -20,18 +20,6 @@
 
 ---
 
-<!-- Socials -->
-<p align="center">
-  <a href="https://fb.com/jhasper.xxx" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" height="40"/>
-  </a>
-  <a href="mailto:jhasperpetines@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="28"/>
-  </a>
-</p>
-
----
-
 <!-- Languages and Tools -->
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
@@ -41,10 +29,20 @@
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/></a>
   <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
+  <a href="https://react.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/></a>
+  <a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://unity.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/></a>
   <a href="https://unrealengine.com/" target="_blank"><img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/></a>
+  <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
+  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="aspnet" width="40" height="40"/></a>
+  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/blazor" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" alt="blazor" width="40" height="40"/></a>
+  <a href="https://visualstudio.microsoft.com/vb/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/VB.NET_Logo.svg" alt="vbnet" width="40" height="40"/></a>
+  <a href="https://www.apachefriends.org/index.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/XAMPP_logo.svg" alt="xampp" width="40" height="40"/></a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/></a>
+  <a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
 </p>
 
 ---
@@ -77,5 +75,5 @@
 </p>
 
 <p align="center">
-  <sub>readme inspired by <a href="https://github.com/Aron-Arboleda/Aron-Arboleda">Aron-Arboleda</a> and generated with ❤️ by <a href="https://rahuldkjain.github.io/gh-profile-readme-generator/">gh-profile-readme-generator</a></sub>
+  <sub>readme inspired by <a href="https://github.com/Aron-Arboleda/Aron-Arboleda">Aron-Arboleda</a> & <a href="https://github.com/Kaeino">Kaeino</a> and generated with ❤️ by <a href="https://rahuldkjain.github.io/gh-profile-readme-generator/">gh-profile-readme-generator</a></sub>
 </p>
