@@ -22,7 +22,7 @@
 
 <!-- Languages and Tools -->
 <h3 align="center">Languages and Tools</h3>
-<table align="center">
+<table align="center" bgcolor="#ffffff" cellpadding="6" cellspacing="0">
   <tr>
     <td><a href="https://www.blender.org/" target="_blank"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/></a></td>
     <td><a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a></td>
