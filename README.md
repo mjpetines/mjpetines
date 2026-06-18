@@ -57,7 +57,7 @@
 
 <!-- Stats -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mjpetines&" alt="mjpetines" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mjpetines" alt="mjpetines" height="165"/>
 </p>
 
 ---
